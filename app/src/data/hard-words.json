@@ -1,0 +1,915 @@
+[
+    "Hard",
+    {
+        "word": "Ignoble",
+        "definition": "Not honourable in character or purpose",
+        "sentence": "Ignoble feelings of intense jealousy",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Brevet",
+        "definition": "A former type of military commission conferred especially for outstanding service, by which an officer was promoted to a higher rank without the corresponding pay",
+        "sentence": "A ______ lieutenant",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pamphlet",
+        "definition": "A small booklet or leaflet containing information or arguments about a single subject",
+        "sentence": "He published a spate of ______ on the subjects about which he felt strongly",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Abundance",
+        "definition": "A very large quantity of something",
+        "sentence": "The tropical island boasts an ______ of wildlife",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Calamitous",
+        "definition": "Involving calamity; catastrophic or disastrous",
+        "sentence": "Such ______ events as fires, hurricanes, and floods",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Proclamation",
+        "definition": "A public or official announcement dealing with a matter of great importance",
+        "sentence": "The issuing by the monarch of a ______ dissolving parliament",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Hokum",
+        "definition": "Nonsense",
+        "sentence": "They dismissed such corporate homilies as boardroom ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Colossal",
+        "definition": "Extremely large or great",
+        "sentence": "A ______ amount of mail",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Marinate",
+        "definition": "Soak (meat, fish, or other food) in a marinade",
+        "sentence": "The beef was ______d in red wine vinegar",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Himalayan",
+        "definition": "Relating to the himalayas",
+        "sentence": "The himalayan foothills",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Apprentice",
+        "definition": "A person who is learning a trade from a skilled employer, having agreed to work for a fixed period at low wages",
+        "sentence": "An ______ electrician",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Reluctant",
+        "definition": "Unwilling and hesitant; disinclined",
+        "sentence": "She seemed ______ to answer",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Heritage",
+        "definition": "Property that is or may be inherited; an inheritance",
+        "sentence": "They had stolen his grandfather's ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Haughty",
+        "definition": "Arrogantly superior and disdainful",
+        "sentence": "A look of ______ disdain",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Derogatory",
+        "definition": "Showing a critical or disrespectful attitude",
+        "sentence": "She tells me i'm fat and is always making ______ remarks",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Hesitate",
+        "definition": "Pause in indecision before saying or doing something",
+        "sentence": "She ______d, unsure of what to say",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Palsy",
+        "definition": "Paralysis, especially that which is accompanied by involuntary tremors",
+        "sentence": "A kind of ______ had seized him",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Opportunity",
+        "definition": "A time or set of circumstances that makes it possible to do something",
+        "sentence": "Increased opportunities for export",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Accordance",
+        "definition": "Conformity or agreement",
+        "sentence": "There is good ______ between the values",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Atmospheric",
+        "definition": "Relating to the atmosphere of the earth",
+        "sentence": "Atmospheric pollution",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Nefarious",
+        "definition": "(typically of an action or activity) wicked or criminal",
+        "sentence": "The ______ activities of the organized-crime syndicates",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Precariously",
+        "definition": "In a way that is not securely in position and is likely to fall or collapse",
+        "sentence": "The homes hung ______ over the edge of a huge crevice",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Periodically",
+        "definition": "From time to time; occasionally",
+        "sentence": "I will ______ check on your progress",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Intriguing",
+        "definition": "Arousing one's curiosity or interest; fascinating",
+        "sentence": "An ______ story",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Absorptive",
+        "definition": "Capable of absorbing energy, a liquid, or another substance",
+        "sentence": "Material having a high ______ capacity",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Incomprehensible",
+        "definition": "Not able to be understood; not intelligible",
+        "sentence": "A language which is ______ to anyone outside the office",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Solace",
+        "definition": "Comfort or consolation in a time of distress or sadness",
+        "sentence": "She sought ______ in her religion",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Therapeutic",
+        "definition": "Relating to the healing of disease",
+        "sentence": "Diagnostic and ______ facilities",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Tumultuous",
+        "definition": "Making an uproar or loud, confused noise",
+        "sentence": "Tumultuous applause",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Senile",
+        "definition": "(of a person) having or showing the weaknesses or diseases of old age, especially a loss of mental faculties",
+        "sentence": "She couldn't cope with her ______ husband",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Proximo",
+        "definition": "Of next month",
+        "sentence": "He must be in edinburgh on 1st ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Fixity",
+        "definition": "The state of being unchanging or permanent",
+        "sentence": "The ______ of his stare",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cornichon",
+        "definition": "A small pickled cucumber",
+        "sentence": "A duck terrine with lentil salad and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Damson",
+        "definition": "A small purple-black fruit similar to the plum",
+        "sentence": "Damson jam",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Rococo",
+        "definition": "Denoting furniture or architecture characterized by an elaborately ornamental late baroque style of decoration prevalent in 18th-century continental europe, with asymmetrical patterns involving motifs and scrollwork",
+        "sentence": "A ______ carved gilt mirror",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Bathos",
+        "definition": "(especially in a literary work) an effect of anticlimax created by an unintentional lapse in mood from the sublime to the trivial or ridiculous",
+        "sentence": "His epic poem has passages of almost embarrassing ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Abeyance",
+        "definition": "A state of temporary disuse or suspension",
+        "sentence": "Matters were held in ______ pending further enquiries",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Prescient",
+        "definition": "Having or showing knowledge of events before they take place",
+        "sentence": "A ______ warning",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Tenon",
+        "definition": "A projecting piece of wood made for insertion into a mortise in another piece",
+        "sentence": "A mortise and ______ joint",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Orwellian",
+        "definition": "Characteristic of the writings of george orwell, especially with reference to his dystopian account of a future totalitarian state in nineteen eighty-four",
+        "sentence": "A frightening view of an orwellian future",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Persiflage",
+        "definition": "Light and slightly contemptuous mockery or banter",
+        "sentence": "An air of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Polemic",
+        "definition": "A strong verbal or written attack on someone or something",
+        "sentence": "His ______ against the cultural relativism of the sixties",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Agnomen",
+        "definition": "A fourth name occasionally given as an honour to an ancient roman citizen",
+        "sentence": "He earned the ______ 'coriolanus' by conspicuous bravery in battle",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Skeuomorph",
+        "definition": "An object or feature which imitates the design of a similar artefact made from another material",
+        "sentence": "The pottery box with a square lid is a ______ of a twilled basketry container",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Codicil",
+        "definition": "An addition or supplement that explains, modifies, or revokes a will or part of one",
+        "sentence": "Francis has remembered him in a ______ to this will",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Violaceous",
+        "definition": "Of a violet colour",
+        "sentence": "The fruiting body is pink or ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Satiety",
+        "definition": "The feeling or state of being sated",
+        "sentence": "A molecule that seems to regulate ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Perorate",
+        "definition": "Speak at length",
+        "sentence": "He ______d against his colleague",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Imbroglio",
+        "definition": "An extremely confused, complicated, or embarrassing situation",
+        "sentence": "The abdication ______ of 1936",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Brioche",
+        "definition": "A light sweet yeast bread typically in the form of a small round roll",
+        "sentence": "She ate a ______ and drank milky coffee",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Adumbrate",
+        "definition": "Represent in outline",
+        "sentence": "Hobhouse had already ______d the idea of a welfare state",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Bucolic",
+        "definition": "Relating to the pleasant aspects of the countryside and country life",
+        "sentence": "The church is lovely for its ______ setting",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Milieu",
+        "definition": "A person's social environment",
+        "sentence": "Gregory came from the same aristocratic ______ as sidonius",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Latitudinarian",
+        "definition": "Allowing latitude in religion; showing no preference among varying creeds and forms of worship",
+        "sentence": "The ______ clergy of the established church",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Asphyxiate",
+        "definition": "Kill (someone) by depriving them of air",
+        "sentence": "They were ______d by the carbon monoxide fumes",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Immure",
+        "definition": "Enclose or confine (someone) against their will",
+        "sentence": "Her brother was ______d in a lunatic asylum",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Theodicy",
+        "definition": "The vindication of divine providence in view of the existence of evil",
+        "sentence": "The question of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Canard",
+        "definition": "An unfounded rumour or story",
+        "sentence": "The old ______ that la is a cultural wasteland",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Lisztian",
+        "definition": "Relating to or characteristic of the hungarian composer and pianist franz liszt or his work",
+        "sentence": "His many virtuoso piano pieces in the lisztian tradition",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Bestial",
+        "definition": "Of or like an animal or animals",
+        "sentence": "Darwin's revelations about our ______ beginnings",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Framboise",
+        "definition": "(in cooking) a raspberry",
+        "sentence": "A deep, rich ______ taste",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Littoral",
+        "definition": "Relating to or situated on the shore of the sea or a lake",
+        "sentence": "The ______ states of the indian ocean",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Pseudonymous",
+        "definition": "Writing or written under a false name",
+        "sentence": "The monarch was not spared by the ______ critic junius",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Synod",
+        "definition": "An assembly of the clergy and sometimes also the laity in a diocese or other division of a particular church",
+        "sentence": "The deanery ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pompadour",
+        "definition": "A woman's hairstyle in which the hair is turned back off the forehead in a roll",
+        "sentence": "She combed her hair into a high, curly ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pasquinade",
+        "definition": "A satire or lampoon, originally one displayed or delivered in a public place",
+        "sentence": "He delivered a long ______ at the expense of my friend",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Penurious",
+        "definition": "Extremely poor; poverty-stricken",
+        "sentence": "A ______ old tramp",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Carapace",
+        "definition": "The hard upper shell of a tortoise, crustacean, or arachnid",
+        "sentence": "The study found oil in the ______ of 29 sea turtles that returned to feed in the spill area",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ritenuto",
+        "definition": "(especially as a direction) with an immediate reduction of speed",
+        "sentence": "Erda's warning is sung strictly ______",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Effrontery",
+        "definition": "Insolent or impertinent behaviour",
+        "sentence": "One juror had the ______ to challenge the coroner's decision",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pastiche",
+        "definition": "An artistic work in a style that imitates that of another work, artist, or period",
+        "sentence": "The operetta is a ______ of 18th century style",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Querulous",
+        "definition": "Complaining in a rather petulant or whining manner",
+        "sentence": "She became ______ and demanding",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Rheumatic",
+        "definition": "Relating to or caused by rheumatism",
+        "sentence": "Rheumatic pains",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Daliesque",
+        "definition": "Characteristic of the surreal or dreamlike style of the artist salvador dalí",
+        "sentence": "______ creatures of the night",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Prognosticate",
+        "definition": "Foretell or prophesy (a future event)",
+        "sentence": "The economists were prognosticating financial armageddon",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Polydactyly",
+        "definition": "A condition in which a person or animal has more than five fingers or toes on one, or on each, hand or foot",
+        "sentence": "Polydactyly of both hands was noted at birth",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Bijouterie",
+        "definition": "Jewellery or trinkets",
+        "sentence": "Strewn about were bric-a-brac and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Insouciance",
+        "definition": "Casual lack of concern; indifference",
+        "sentence": "An impression of boyish ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Quattrocento",
+        "definition": "The 15th century as a period of italian art or architecture",
+        "sentence": "Artists of the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Canaille",
+        "definition": "The common people; the masses",
+        "sentence": "The haughty contempt of a grandee sneering at the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Verisimilitude",
+        "definition": "The appearance of being true or real",
+        "sentence": "The detail gives the novel some ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Keynesian",
+        "definition": "Relating to or denoting the economic theories of john maynard keynes",
+        "sentence": "______ policies",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Tarpaulin",
+        "definition": "Heavy-duty waterproof cloth, originally of tarred canvas",
+        "sentence": "A stretch of roof is covered with ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pulchritude",
+        "definition": "Beauty",
+        "sentence": "The irresistible ______ of her friend",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Patois",
+        "definition": "The dialect of a particular region, especially one with low status in relation to the standard language of the country",
+        "sentence": "The nurse talked to me in a ______ that even italians would have had difficulty in understanding",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Bourgeois",
+        "definition": "Belonging to or characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes",
+        "sentence": "A rich, bored, ______ family",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Lilliputian",
+        "definition": "Trivial or very small",
+        "sentence": "America's banks look lilliputian in comparison with japan's",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Cozen",
+        "definition": "Trick or deceive",
+        "sentence": "Do not think to ______ your contemporaries",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Vermeil",
+        "definition": "Gilded silver or bronze",
+        "sentence": "A ______ candelabrum",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Plagiarism",
+        "definition": "The practice of taking someone else's work or ideas and passing them off as one's own",
+        "sentence": "There were accusations of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Anodyne",
+        "definition": "Not likely to cause offence or disagreement and somewhat dull",
+        "sentence": "Anodyne music",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Contretemps",
+        "definition": "A minor dispute or disagreement",
+        "sentence": "She had occasional ______ with her staff",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Reconnoitre",
+        "definition": "Make a military observation of (a region)",
+        "sentence": "They ______d the beach some weeks before the landing",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Realpolitik",
+        "definition": "A system of politics or principles based on practical rather than moral or ideological considerations",
+        "sentence": "Commercial ______ had won the day",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Jai",
+        "definition": "Victory! (used as an expression of praise or support, especially in political slogans)",
+        "sentence": "‘jai jawan!’",
+        "partOfSpeech": "Interjection"
+    },
+    {
+        "word": "Lassitude",
+        "definition": "A state of physical or mental weariness; lack of energy",
+        "sentence": "She was overcome by ______ and retired to bed",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Oeuvre",
+        "definition": "The body of work of a painter, composer, or author",
+        "sentence": "The complete ______ of mozart",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Teppanyaki",
+        "definition": "A japanese dish of meat, fish, or both, fried with vegetables on a hot steel plate forming the centre of the table",
+        "sentence": "The restaurant has ten ______ tables",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cicatrize",
+        "definition": "(with reference to a wound) heal by scar formation",
+        "sentence": "His wound had ______d",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Realia",
+        "definition": "Objects and material from everyday life used as teaching aids",
+        "sentence": "The industrial english language course makes extensive and varied use of ______, such as specifications, extracts from company brochures, manuals, diagrams, etc.",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Garrulous",
+        "definition": "Excessively talkative, especially on trivial matters",
+        "sentence": "A ______ cab driver",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Paroxysm",
+        "definition": "A sudden attack or outburst of a particular emotion or activity",
+        "sentence": "\n              a ______ of weeping",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Communiqué",
+        "definition": "An official announcement or statement, especially one made to the media",
+        "sentence": "The country's foreign ministry issued a communique",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Guilloche",
+        "definition": "Ornamentation resembling braided or interlaced ribbons",
+        "sentence": "A wide strip of eight-strand ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Martinet",
+        "definition": "A person who demands complete obedience; a strict disciplinarian",
+        "sentence": "The woman in charge was a ______ who treated all those beneath her like children",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Soupçon",
+        "definition": "A very small quantity of something",
+        "sentence": "\n              a soupçon of mustard",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Nugatory",
+        "definition": "Of no value or importance",
+        "sentence": "A ______ and pointless observation",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Immiscible",
+        "definition": "(of liquids) not forming a homogeneous mixture when mixed",
+        "sentence": "Benzene is ______ with water",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Riparian",
+        "definition": "Relating to or situated on the banks of a river",
+        "sentence": "All the ______ states must sign an agreement",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Dudgeon",
+        "definition": "A feeling of offence or deep resentment",
+        "sentence": "The manager walked out in high ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Nitid",
+        "definition": "Shining or glossy",
+        "sentence": "In a strong and open daylight, all her ______ beauties show most clearly",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Litigious",
+        "definition": "Tending or too ready to take legal action to settle disputes",
+        "sentence": "Our increasingly ______ society",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Calumny",
+        "definition": "The making of false and defamatory statements about someone in order to damage their reputation; slander",
+        "sentence": "A bitter struggle marked by ______ and litigation",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ad",
+        "definition": "An advertisement",
+        "sentence": "The latest television lager ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Elegiac",
+        "definition": "Relating to or characteristic of an elegy",
+        "sentence": "Haunting and ______ poems",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Surfeit",
+        "definition": "An excessive amount of something",
+        "sentence": "\n              a ______ of food and drink",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Anechoic",
+        "definition": "Free from echo",
+        "sentence": "An ______ chamber",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Leonine",
+        "definition": "Of or resembling a lion or lions",
+        "sentence": "A handsome, ______ profile",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Oppugn",
+        "definition": "Question the truth or validity of",
+        "sentence": "The officials whose judgement was ______",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Euphonious",
+        "definition": "(of sound, especially speech) pleasing to the ear",
+        "sentence": "A stream of fine, ______ phrases",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Coterie",
+        "definition": "A small group of people with shared interests or tastes, especially one that is exclusive of other people",
+        "sentence": "A ______ of friends and advisers",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Sakura",
+        "definition": "(especially in japan) a flowering cherry tree",
+        "sentence": "Many schools plant ______ on their grounds",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Buccal",
+        "definition": "Relating to the cheek",
+        "sentence": "The ______ side of the molars",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Benison",
+        "definition": "A blessing",
+        "sentence": "The rewards and ______ of marriage",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Jalousie",
+        "definition": "A blind or shutter made of a row of angled slats",
+        "sentence": "He peeped between the half-open ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dactylic",
+        "definition": "Of or using dactyls",
+        "sentence": "Dactylic rhythm",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Affogato",
+        "definition": "An italian dessert consisting of vanilla ice cream topped with a shot of espresso coffee",
+        "sentence": "The ______ was to die for, with the bitter espresso perfectly complementing the sweet ice cream",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dysrhythmia",
+        "definition": "Abnormality in a physiological rhythm, especially in the activity of the brain or heart",
+        "sentence": "Congestive heart failure and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Harangue",
+        "definition": "A lengthy and aggressive speech",
+        "sentence": "They were subjected to a ten-minute ______ by two border guards",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Rouille",
+        "definition": "A provençal sauce made from pounded red chilli peppers, garlic, breadcrumbs, and other ingredients blended with stock, typically added to bouillabaisse",
+        "sentence": "Croutons and ______ on the side",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Jungian",
+        "definition": "Relating to or characteristic of the swiss psychologist carl jung or his works",
+        "sentence": "A jungian analyst",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Facile",
+        "definition": "Ignoring the true complexities of an issue; superficial",
+        "sentence": "Facile generalizations",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Execrable",
+        "definition": "Extremely bad or unpleasant",
+        "sentence": "Execrable cheap wine",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Julienne",
+        "definition": "A portion of food cut into short, thin strips",
+        "sentence": "A ______ of vegetables",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Moiety",
+        "definition": "Each of two parts into which a thing is or can be divided",
+        "sentence": "The tax was to be delivered in two moieties",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Icarian",
+        "definition": "Relating to or characteristic of icarus, especially in being excessively ambitious",
+        "sentence": "An icarian mentality that could only lead to a crash and burn",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Duxelles",
+        "definition": "A preparation of mushrooms sautéed with onions, shallots, garlic, and parsley and used to make stuffing or sauce",
+        "sentence": "Chillies stuffed with ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Bailiwick",
+        "definition": "One's sphere of operations or area of interest",
+        "sentence": "After the war, the middle east remained his ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Coiffure",
+        "definition": "A person's hairstyle",
+        "sentence": "Diana's intricately braided ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Repartee",
+        "definition": "Conversation or speech characterized by quick, witty comments or replies",
+        "sentence": "He had a quick mind and a splendid gift of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Exiguous",
+        "definition": "Very small in size or amount",
+        "sentence": "My ______ musical resources",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Semaphore",
+        "definition": "A system of sending messages by holding the arms or two flags or poles in certain positions according to an alphabetic code",
+        "sentence": "If you learn ______ or the morse code, you'll have a fun way to send messages",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Gambol",
+        "definition": "Run or jump about playfully",
+        "sentence": "The mare ______led towards her",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Zeitgeist",
+        "definition": "The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time",
+        "sentence": "The story captured the ______ of the late 1960s",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Nacelle",
+        "definition": "A streamlined casing on the outside of an aircraft or motor vehicle, especially one housing an aircraft engine",
+        "sentence": "A grey aircraft with navy painted on the engine ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pythagorean",
+        "definition": "Relating to or characteristic of the greek philosopher pythagoras or his ideas",
+        "sentence": "The pythagorean doctrine of the transmigration of souls",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Nival",
+        "definition": "Relating to or characteristic of a region of perpetual snow",
+        "sentence": "The ______ zone, the area above about 2,000 metres",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Desiccate",
+        "definition": "Remove the moisture from (something); cause to become completely dry",
+        "sentence": "Both the older growth and the new vegetation were ______d by months of relentless sun",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Aporia",
+        "definition": "An irresolvable internal contradiction or logical disjunction in a text, argument, or theory",
+        "sentence": "The celebrated ______ whereby a cretan declares all cretans to be liars",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Hirsute",
+        "definition": "Hairy",
+        "sentence": "Their ______ chests",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Seine",
+        "definition": "A fishing net which hangs vertically in the water with floats at the top and weights at the bottom edge, the ends being drawn together to encircle the fish",
+        "sentence": "A ______ boat",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Courant",
+        "definition": "Represented as running",
+        "sentence": "White horse ______",
+        "partOfSpeech": "Adjective"
+    }
+]

@@ -1,0 +1,1137 @@
+[
+    "Easy",
+    {
+        "word": "Crowd",
+        "definition": "A large number of people gathered together in a disorganized or unruly way",
+        "sentence": "A huge ______ gathered in the street outside",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Secret",
+        "definition": "Not known or seen or not meant to be known or seen by others",
+        "sentence": "How did you guess i'd got a ______ plan?",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Fumble",
+        "definition": "Do or handle something clumsily",
+        "sentence": "She ______d with the lock",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Pond",
+        "definition": "A small body of still water formed naturally or by artificial means",
+        "sentence": "A garden ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Health",
+        "definition": "The state of being free from illness or injury",
+        "sentence": "He was restored to ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pardon",
+        "definition": "The action of forgiving or being forgiven for an error or offence",
+        "sentence": "He obtained ______ for his sins",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Shake",
+        "definition": "(of a structure or area of land) tremble or vibrate",
+        "sentence": "Buildings shook in sacramento and tremors were felt in reno",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Kiddo",
+        "definition": "A friendly or slightly condescending form of address",
+        "sentence": "You're getting what you deserve, ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Proof",
+        "definition": "Evidence or argument establishing a fact or the truth of a statement",
+        "sentence": "You will be asked to give ______ of your identity",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Town",
+        "definition": "A built-up area with a name, defined boundaries, and local government, that is larger than a village and generally smaller than a city",
+        "sentence": "The hotel is eight miles from the nearest ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Bingo",
+        "definition": "A game in which players mark off numbers on cards as the numbers are drawn randomly by a caller, the winner being the first person to mark off all their numbers",
+        "sentence": "A ______ hall",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Clever",
+        "definition": "Quick to understand, learn, and devise or apply ideas; intelligent",
+        "sentence": "She was an extremely ______ and studious young woman",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Inside",
+        "definition": "The inner side or surface of something",
+        "sentence": "Wipe the ______ of the windscreen",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Reply",
+        "definition": "Say something in response to something someone has said",
+        "sentence": "He was gone before we could ______ to his last remark",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Special",
+        "definition": "Better, greater, or otherwise different from what is usual",
+        "sentence": "They always made a ______ effort at christmas",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Film",
+        "definition": "A thin flexible strip of plastic or other material coated with light-sensitive emulsion for exposure in a camera, used to produce photographs or motion pictures",
+        "sentence": "He had already shot a whole roll of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Soda",
+        "definition": "Carbonated water (originally made with sodium bicarbonate) drunk alone or mixed with alcoholic drinks or fruit juice",
+        "sentence": "A whisky and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Seal",
+        "definition": "A device or substance that is used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them",
+        "sentence": "Attach a draught ______ to the door itself",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Admit",
+        "definition": "Confess to be true or to be the case",
+        "sentence": "The home office finally ______ted that several prisoners had been injured",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Brass",
+        "definition": "A yellow alloy of copper and zinc",
+        "sentence": "A ______ plate on the door",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Onshore",
+        "definition": "Situated or occurring on land (often used in relation to the oil and gas industry)",
+        "sentence": "An ______ oilfield",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Deny",
+        "definition": "State that one refuses to admit the truth or existence of",
+        "sentence": "Both firms ______ any responsibility for the tragedy",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Drum",
+        "definition": "A percussion instrument sounded by being struck with sticks or the hands, typically cylindrical, barrel-shaped, or bowl-shaped, with a taut membrane over one or both ends",
+        "sentence": "A shuffling dance to the beat of a ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Snarl",
+        "definition": "(of an animal such as a dog) make an aggressive growl with bared teeth",
+        "sentence": "The dog ______ at the boy",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Argue",
+        "definition": "Give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view",
+        "sentence": "Sociologists ______ that inequalities in industrial societies are being reduced",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Loppers",
+        "definition": "A cutting tool, especially for pruning trees",
+        "sentence": "A good pair of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Sniffle",
+        "definition": "Sniff slightly or repeatedly, typically because of a cold or fit of crying",
+        "sentence": "Claire rubbed her nose, sniffling loudly",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Mouth",
+        "definition": "The opening and cavity in the lower part of the human face, surrounded by the lips, through which food is taken in and vocal sounds are emitted",
+        "sentence": "Ben stood transfixed with disbelief, his ______ open",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cone",
+        "definition": "A solid or hollow object which tapers from a circular or roughly circular base to a point",
+        "sentence": "Stalls selling paper ______ full of fresh berries",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Never",
+        "definition": "At no time in the past or future; not ever",
+        "sentence": "They had ______ been camping in their lives",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Silly",
+        "definition": "Having or showing a lack of common sense or judgement; absurd and foolish",
+        "sentence": "Another of his ______ jokes",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Monday",
+        "definition": "The day of the week before tuesday and following sunday",
+        "sentence": "I saw him on monday",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Grub",
+        "definition": "The larva of an insect, especially a beetle",
+        "sentence": "My onions are ruined by small ______ eating the roots",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Hook",
+        "definition": "A piece of metal or other hard material curved or bent back at an angle, for catching hold of or hanging things on",
+        "sentence": "A picture ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Number",
+        "definition": "An arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations",
+        "sentence": "Think of a ______ from one to ten and multiply it by three",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cooking",
+        "definition": "The practice or skill of preparing food by combining, mixing, and heating ingredients",
+        "sentence": "He developed an interest in ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Amazed",
+        "definition": "Greatly surprised; astonished",
+        "sentence": "I was ______ that he could remember me",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Collect",
+        "definition": "Bring or gather together (a number of things)",
+        "sentence": "He went round the office ______ing old coffee cups",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Local",
+        "definition": "Relating or restricted to a particular area or one's neighbourhood",
+        "sentence": "Researching ______ history",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Proper",
+        "definition": "Denoting something that is truly what it is said or regarded to be; genuine",
+        "sentence": "She's never had a ______ job",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Basement",
+        "definition": "The floor of a building which is partly or entirely below ground level",
+        "sentence": "They went down the stairs into the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ripple",
+        "definition": "A small wave or series of waves on the surface of water, especially as caused by a slight breeze or an object dropping into it",
+        "sentence": "He dived into the pool leaving barely a ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Plumbing",
+        "definition": "The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building",
+        "sentence": "You may be able to get a grant to install proper ______ and bathrooms",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Stubborn",
+        "definition": "Having or showing dogged determination not to change one's attitude or position on something, especially in spite of good arguments or reasons to do so",
+        "sentence": "A ______ refusal to learn from experience",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Adrift",
+        "definition": "So as to float without being either moored or steered",
+        "sentence": "A cargo ship went ______",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Sweeten",
+        "definition": "Make or become sweet or sweeter, especially in taste",
+        "sentence": "A cup of coffee ______ with saccharin",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Beeswax",
+        "definition": "The wax secreted by bees to make honeycombs and used to make wood polishes and candles",
+        "sentence": "She rubbed her furniture with ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Still",
+        "definition": "Not moving or making a sound",
+        "sentence": "The ______ body of the young man",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Pie",
+        "definition": "A baked dish of fruit, or meat and vegetables, typically with a top and base of pastry",
+        "sentence": "A meat ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Size",
+        "definition": "The relative extent of something; a thing's overall dimensions or magnitude; how big something is",
+        "sentence": "The schools varied in ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Chain",
+        "definition": "A series of linked metal rings used for fastening or securing something, or for pulling loads",
+        "sentence": "He slid the bolts on the front door and put the safety ______ across",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Honest",
+        "definition": "Free of deceit; truthful and sincere",
+        "sentence": "I haven't been totally ______ with you",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Holler",
+        "definition": "Give a loud shout or cry",
+        "sentence": "He ______ when he wants feeding",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Billboard",
+        "definition": "A large outdoor board for displaying advertisements; a hoarding",
+        "sentence": "The display of suggestive advertisements on ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Chicken",
+        "definition": "A domestic fowl kept for its eggs or meat, especially a young one",
+        "sentence": "Rationing was still in force and most people kept ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Finish",
+        "definition": "Bring (a task or activity) to an end; complete",
+        "sentence": "They were straining to ______ the job",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Cheer",
+        "definition": "Shout for joy or in praise or encouragement",
+        "sentence": "She ______ from the sidelines",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Twisty",
+        "definition": "Not arranged or moving in a straight line; winding",
+        "sentence": "A ______ country road",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Scoop",
+        "definition": "A utensil resembling a spoon, with a short handle and a deep bowl, used for removing dry or semi-solid substances from a container",
+        "sentence": "The powder is packed in tubs in which a measuring ______ is provided",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Rover",
+        "definition": "A person who spends their time wandering",
+        "sentence": "They became ______ who departed further and further from civilization",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Forgive",
+        "definition": "Stop feeling angry or resentful towards (someone) for an offence, flaw, or mistake",
+        "sentence": "I'll never ______ david for the way he treated her",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Ribbon",
+        "definition": "A long, narrow strip of fabric, used for tying something or for decoration",
+        "sentence": "The tiny pink ______ in her hair",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Shoo",
+        "definition": "A word said to frighten or drive away a person or animal",
+        "sentence": "‘______,’ said mrs beavis to her girls, and the passage emptied",
+        "partOfSpeech": "Interjection"
+    },
+    {
+        "word": "Greedy",
+        "definition": "Having an excessive desire or appetite for food",
+        "sentence": "He's scoffed the lot, the ______ pig",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Beam",
+        "definition": "A long, sturdy piece of squared timber or metal used to support the roof or floor of a building",
+        "sentence": "There are very fine oak ______ in the oldest part of the house",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Crew",
+        "definition": "A group of people who work on and operate a ship, aircraft, etc.",
+        "sentence": "He was one of nine members of the ______ killed when the plane went down",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Crate",
+        "definition": "A slatted wooden case used for transporting goods",
+        "sentence": "A ______ of bananas",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Hotel",
+        "definition": "An establishment providing accommodation, meals, and other services for travellers and tourists",
+        "sentence": "A five-star ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Stray",
+        "definition": "Move away aimlessly from a group or from the right course or place",
+        "sentence": "Dog owners are urged not to allow their dogs to ______",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Gradual",
+        "definition": "Taking place or progressing slowly or by degrees",
+        "sentence": "The ______ introduction of new methods",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Ferocious",
+        "definition": "Savagely fierce, cruel, or violent",
+        "sentence": "A ______ beast",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Frequently",
+        "definition": "Regularly or habitually; often",
+        "sentence": "They go abroad ______",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Permission",
+        "definition": "The action of officially allowing someone to do a particular thing; consent or authorization",
+        "sentence": "They had entered the country without ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Towel",
+        "definition": "A piece of thick absorbent cloth or paper used for drying oneself or wiping things dry",
+        "sentence": "A bath ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ornament",
+        "definition": "A thing used or serving to make something look more attractive but usually having no practical purpose, especially a small object such as a figurine",
+        "sentence": "Tables covered with ______ and books",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Scold",
+        "definition": "Remonstrate with or rebuke (someone) angrily",
+        "sentence": "Mum took anna away, ______ing her for her bad behaviour",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Organza",
+        "definition": "A thin, stiff, transparent dress fabric made of silk or a synthetic yarn",
+        "sentence": "A silk ______ skirt",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Fragile",
+        "definition": "(of an object) easily broken or damaged",
+        "sentence": "Fragile items such as glass and china",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Complaint",
+        "definition": "A statement that something is unsatisfactory or unacceptable",
+        "sentence": "I intend to make an official ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Listener",
+        "definition": "A person who listens, especially someone who does so in an attentive manner",
+        "sentence": "He's understanding and a good ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Guardian",
+        "definition": "A person who protects or defends something",
+        "sentence": "Self-appointed ______ of public morality",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Fraught",
+        "definition": "(of a situation or course of action) filled with or likely to result in (something undesirable)",
+        "sentence": "Marketing any new product is ______ with danger",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Sturdy",
+        "definition": "(of a person or their body) strongly and solidly built",
+        "sentence": "He had a ______, muscular physique",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Originate",
+        "definition": "Have a specified beginning",
+        "sentence": "The word ______d as a marketing term",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Forfend",
+        "definition": "Avert or prevent (something evil or unpleasant)",
+        "sentence": "‘the fiend ______’ said the grim earl",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Eavesdrop",
+        "definition": "Secretly listen to a conversation",
+        "sentence": "My father ______ped on my phone calls",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "January",
+        "definition": "The first month of the year, in the northern hemisphere usually considered the second month of winter",
+        "sentence": "Sophie was two in january",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Scruple",
+        "definition": "A feeling of doubt or hesitation with regard to the morality or propriety of a course of action",
+        "sentence": "I had no ______ about eavesdropping",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Moxie",
+        "definition": "Force of character, determination, or nerve",
+        "sentence": "When you've got the ______, you need the clothes to match",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Winnow",
+        "definition": "Blow a current of air through (grain) in order to remove the chaff",
+        "sentence": "A combine cuts, threshes, and ______ the grain in one operation",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Incentive",
+        "definition": "A thing that motivates or encourages someone to do something",
+        "sentence": "Give farmers an ______ to improve their land",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Admirer",
+        "definition": "A person who has a particular regard for someone or something",
+        "sentence": "He was a great ______ of henry james",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Emotional",
+        "definition": "Relating to a person's emotions",
+        "sentence": "Gaining ______ support from relatives",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Bogus",
+        "definition": "Not genuine or true (used in a disapproving manner when deception has been attempted)",
+        "sentence": "A ______ insurance claim",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Recoup",
+        "definition": "Regain (something lost or expended)",
+        "sentence": "Rains have helped ______ water levels",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Veteran",
+        "definition": "A person who has had long experience in a particular field",
+        "sentence": "A ______ of two world wars",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Erase",
+        "definition": "Rub out or remove (writing or marks)",
+        "sentence": "Graffiti had been ______d from the wall",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Spinal",
+        "definition": "Relating to the spine",
+        "sentence": "Spinal injuries",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Demolition",
+        "definition": "The action or process of demolishing or being demolished",
+        "sentence": "The monument was saved from ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Gargantuan",
+        "definition": "Enormous",
+        "sentence": "A ______ appetite",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Chaotic",
+        "definition": "In a state of complete confusion and disorder",
+        "sentence": "The political situation was ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Wistful",
+        "definition": "Having or showing a feeling of vague or regretful longing",
+        "sentence": "A ______ smile",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Companion",
+        "definition": "A person or animal with whom one spends a lot of time or with whom one travels",
+        "sentence": "His travelling ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Panorama",
+        "definition": "An unbroken view of the whole region surrounding an observer",
+        "sentence": "The tower offers a wonderful ______ of prague",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Gimmick",
+        "definition": "A trick or device intended to attract attention, publicity, or trade",
+        "sentence": "It is not so much a programme to improve services as a ______ to gain votes",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Flannel",
+        "definition": "A kind of soft woven fabric, typically made of wool or cotton and slightly milled and raised",
+        "sentence": "A check ______ shirt",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Lionize",
+        "definition": "Give a lot of public attention and approval to (someone); treat as a celebrity",
+        "sentence": "Modern sportsmen are ______d and feted",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Headdress",
+        "definition": "An ornamental covering or band for the head, especially one worn on ceremonial occasions",
+        "sentence": "A tall plumed ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Fragrance",
+        "definition": "A pleasant, sweet smell",
+        "sentence": "The ______ of fresh-ground coffee",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "System",
+        "definition": "A set of things working together as parts of a mechanism or an interconnecting network; a complex whole",
+        "sentence": "The state railway ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pedigree",
+        "definition": "The record of descent of an animal, showing it to be pure-bred",
+        "sentence": "They are looking for animals with ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Empty",
+        "definition": "Containing nothing; not filled or occupied",
+        "sentence": "She put down her ______ cup",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Guess",
+        "definition": "Estimate or conclude (something) without sufficient information to be sure of being correct",
+        "sentence": "She ______ the child's age at 14 or 15",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Carrot",
+        "definition": "A tapering orange-coloured root eaten as a vegetable",
+        "sentence": "Roast lamb with peas and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Distraught",
+        "definition": "Very worried and upset",
+        "sentence": "Distraught parents looking for a runaway teenager",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Freight",
+        "definition": "Goods transported in bulk by truck, train, ship, or aircraft",
+        "sentence": "A decline in the amount of ______ carried by rail",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Blemish",
+        "definition": "A small mark or flaw which spoils the appearance of something",
+        "sentence": "The girl's hands were without a ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Squirm",
+        "definition": "Wriggle or twist the body from side to side, especially as a result of nervousness or discomfort",
+        "sentence": "He looked uncomfortable and ______ in his chair",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Harmonious",
+        "definition": "Tuneful; not discordant",
+        "sentence": "Harmonious music",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Valiant",
+        "definition": "Possessing or showing courage or determination",
+        "sentence": "She made a ______ effort to hold her anger in check",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Purse",
+        "definition": "A small pouch of leather or plastic used for carrying money, typically by a woman",
+        "sentence": "She had enough in her ______ for bus fare",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Bias",
+        "definition": "Inclination or prejudice for or against one person or group, especially in a way considered to be unfair",
+        "sentence": "There was evidence of ______ against foreign applicants",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Americana",
+        "definition": "Things associated with america, especially the united states",
+        "sentence": "Several important pieces of americana",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Monopolize",
+        "definition": "(of an organization or group) obtain exclusive possession or control of (a trade, commodity, or service)",
+        "sentence": "They instituted press censorship and ______d the means of communication",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Water",
+        "definition": "A colourless, transparent, odourless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms",
+        "sentence": "Sodium chloride dissolves in ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Marathon",
+        "definition": "A long-distance running race, strictly one of 26 miles 385 yards (42.195 km)",
+        "sentence": "I was due to run the ______ the next day",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Omission",
+        "definition": "A person or thing that has been left out or excluded",
+        "sentence": "There are glaring ______ in the report",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Spreadsheet",
+        "definition": "An electronic document in which data is arranged in the rows and columns of a grid and can be manipulated and used in calculations",
+        "sentence": "We have a colour-coded excel ______ of all of our trip expenses",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Fortification",
+        "definition": "A defensive wall or other reinforcement built to strengthen a place against attack",
+        "sentence": "The building and maintenance of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Genius",
+        "definition": "Exceptional intellectual or creative power or other natural ability",
+        "sentence": "She was a teacher of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Nuance",
+        "definition": "A subtle difference in or shade of meaning, expression, or sound",
+        "sentence": "He was familiar with the ______ of the local dialect",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Stencil",
+        "definition": "A thin sheet of card, plastic, or metal with a pattern or letters cut out of it, used to produce the cut design on the surface below by the application of ink or paint through the holes",
+        "sentence": "Stencil designs such as fruit",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Freckle",
+        "definition": "A small patch of light brown colour on the skin, often becoming more pronounced through exposure to the sun",
+        "sentence": "She had a light sprinkling of ______ on her nose",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Blooper",
+        "definition": "An embarrassing error",
+        "sentence": "He poked fun at his own tendency to utter ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Misconception",
+        "definition": "A view or opinion that is incorrect because based on faulty thinking or understanding",
+        "sentence": "Public ______ about antibiotic use",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Chowder",
+        "definition": "A rich soup typically containing fish, clams, or corn with potatoes and onions",
+        "sentence": "Clam ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Flattery",
+        "definition": "Excessive and insincere praise, given especially to further one's own interests",
+        "sentence": "She allowed no hint of ______ to enter her voice",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Simmer",
+        "definition": "(of water or food that is being heated) stay just below boiling point while bubbling gently",
+        "sentence": "The goulash was ______ing slowly in the oven",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Whisk",
+        "definition": "Take or move (someone or something) somewhere suddenly and quickly",
+        "sentence": "He ______ her off to paris for a few days",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Fantastically",
+        "definition": "Extraordinarily well",
+        "sentence": "Every single player performed ______",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Failure",
+        "definition": "Lack of success",
+        "sentence": "An economic policy that is doomed to ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Tolerable",
+        "definition": "Able to be endured",
+        "sentence": "A stimulant to make life more ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Target",
+        "definition": "A person, object, or place selected as the aim of an attack",
+        "sentence": "The airport terminal was the ______ of a bomb",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Angora",
+        "definition": "A cat, goat, or rabbit of a long-haired breed",
+        "sentence": "Angora rabbits",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Snippet",
+        "definition": "A small piece or brief extract",
+        "sentence": "\n              ______ of information about the war",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ascribe",
+        "definition": "Regard something as being due to (a cause)",
+        "sentence": "He ______d jane's short temper to her upset stomach",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Hodgepodge",
+        "definition": "A confused mixture; a hotchpotch",
+        "sentence": "Rob's living room was a ______ of modern furniture and antiques",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Verbiage",
+        "definition": "Excessively lengthy or technical speech or writing",
+        "sentence": "The basic idea here, despite all the ______, is simple",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Imbibe",
+        "definition": "Drink (alcohol)",
+        "sentence": "They were imbibing far too many pitchers of beer",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Savvy",
+        "definition": "Shrewdness and practical knowledge; the ability to make good judgements",
+        "sentence": "The corporate finance bankers lacked the necessary political ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Reckon",
+        "definition": "Establish by calculation",
+        "sentence": "His debts were ______ at £300,000",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Uncle",
+        "definition": "The brother of one's father or mother or the husband of one's aunt",
+        "sentence": "He visited his ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dawdle",
+        "definition": "Waste time; be slow",
+        "sentence": "She mustn't ______—she had to make the call now",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Mogul",
+        "definition": "An important or powerful person, especially in the film or media industry",
+        "sentence": "The hollywood movie ______, sam goldwyn",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Tantrum",
+        "definition": "An uncontrolled outburst of anger and frustration, typically in a young child",
+        "sentence": "He has temper ______ if he can't get his own way",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Science",
+        "definition": "The intellectual and practical activity encompassing the systematic study of the structure and behaviour of the physical and natural world through observation and experiment",
+        "sentence": "The world of ______ and technology",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Venomous",
+        "definition": "(of an animal, especially a snake) secreting venom; capable of injecting venom by means of a bite or sting",
+        "sentence": "A leading expert on ______ snakes",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Plaintiff",
+        "definition": "A person who brings a case against another in a court of law",
+        "sentence": "The ______ commenced an action for damages",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Mayhem",
+        "definition": "Violent or extreme disorder; chaos",
+        "sentence": "Complete ______ broke out",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Thicket",
+        "definition": "A dense group of bushes or trees",
+        "sentence": "A horned owl perfectly camouflaged in a dense ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Island",
+        "definition": "A piece of land surrounded by water",
+        "sentence": "The ______ of crete",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Peacenik",
+        "definition": "A member of a pacifist movement",
+        "sentence": "An exchange of issues from the ______ to the environmentalists",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ounce",
+        "definition": "A unit of weight of one sixteenth of a pound avoirdupois (approximately 28 grams)",
+        "sentence": "Melt three ______ of butter in a large frying pan",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Memorandum",
+        "definition": "A written message in business or diplomacy",
+        "sentence": "He told them of his decision in a ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Bother",
+        "definition": "Take the trouble to do something",
+        "sentence": "Scientists rarely ______ with such niceties",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Missile",
+        "definition": "An object which is forcibly propelled at a target, either by hand or from a mechanical weapon",
+        "sentence": "One of the players was hit on the head by a ______ thrown by a spectator",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Banana",
+        "definition": "A long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe",
+        "sentence": "A bunch of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Kudos",
+        "definition": "Praise and honour received for an achievement",
+        "sentence": "She was looking for ______ rather than profit",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Shebang",
+        "definition": "A matter, operation, or set of circumstances",
+        "sentence": "The mafia boss who's running the whole ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Criminal",
+        "definition": "A person who has committed a crime",
+        "sentence": "These men are dangerous ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Recipient",
+        "definition": "A person or thing that receives or is awarded something",
+        "sentence": "The ______ of the nobel peace prize",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Strong",
+        "definition": "Having the power to move heavy weights or perform other physically demanding tasks",
+        "sentence": "She cut through the water with her ______ arms",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Aviation",
+        "definition": "The flying or operating of aircraft",
+        "sentence": "Two events launched the history of modern ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Lucky",
+        "definition": "Having, bringing, or resulting from good luck",
+        "sentence": "You had a very ______ escape",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Reflect",
+        "definition": "(of a surface or body) throw back (heat, light, or sound) without absorbing it",
+        "sentence": "When the sun's rays hit the earth a lot of the heat is ______ back into space",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Scent",
+        "definition": "A distinctive smell, especially one that is pleasant",
+        "sentence": "The ______ of freshly cut hay",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Scumble",
+        "definition": "Modify (a painting or colour) by applying a very thin coat of opaque paint to give a softer or duller effect",
+        "sentence": "The area surrounding the main figures will be ______d",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Extinct",
+        "definition": "(of a species, family, or other group of animals or plants) having no living members; no longer in existence",
+        "sentence": "Trilobites and dinosaurs are ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Haggle",
+        "definition": "Dispute or bargain persistently, especially over the cost of something",
+        "sentence": "The two sides are haggling over television rights",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Cooperate",
+        "definition": "Work jointly towards the same end",
+        "sentence": "The leaders promised to ______ in ending the civil war",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Merchandise",
+        "definition": "Goods to be bought and sold",
+        "sentence": "Shops which offered an astonishing range of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Apology",
+        "definition": "A regretful acknowledgement of an offence or failure",
+        "sentence": "We owe you an ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Carnival",
+        "definition": "An annual festival, typically during the week before lent in roman catholic countries, involving processions, music, dancing, and the use of masquerade",
+        "sentence": "The culmination of the week-long ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Buffoonery",
+        "definition": "Behaviour that is ridiculous but amusing",
+        "sentence": "The film is full of wordplay and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Intellectual",
+        "definition": "Relating to the intellect",
+        "sentence": "Children need ______ stimulation",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Domino",
+        "definition": "Any of 28 small oblong pieces marked with 0–6 pips in each half",
+        "sentence": "Everyone will fall over like a row of ______es",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ignite",
+        "definition": "Catch fire or cause to catch fire",
+        "sentence": "Furniture can give off lethal fumes when it ______",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Legacy",
+        "definition": "An amount of money or property left to someone in a will",
+        "sentence": "My grandmother died and unexpectedly left me a small ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Splurge",
+        "definition": "An act of spending money freely or extravagantly",
+        "sentence": "The annual pre-christmas ______",
+        "partOfSpeech": "Noun"
+    }
+]

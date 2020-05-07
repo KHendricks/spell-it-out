@@ -1,0 +1,1725 @@
+[
+    "Medium",
+    {
+        "word": "Gallop",
+        "definition": "The fastest pace of a horse or other quadruped, with all the feet off the ground together in each stride",
+        "sentence": "The horse broke into a furious ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ancient",
+        "definition": "Belonging to the very distant past and no longer in existence",
+        "sentence": "The ______ civilizations of the mediterranean",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Tapestry",
+        "definition": "A piece of thick textile fabric with pictures or designs formed by weaving coloured weft threads or by embroidering on canvas, used as a wall hanging or soft furnishing",
+        "sentence": "Panelled walls hung with old tapestries",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Delivery",
+        "definition": "The action of delivering letters, parcels, or goods",
+        "sentence": "Allow up to 28 days for ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Disembark",
+        "definition": "Leave a ship, aircraft, or train",
+        "sentence": "The passengers began to ______",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Usual",
+        "definition": "Habitually or typically occurring or done; customary",
+        "sentence": "He carried out his ______ evening routine",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Challenge",
+        "definition": "A call to someone to participate in a competitive situation or fight to decide who is superior in terms of ability or strength",
+        "sentence": "He accepted the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Drastic",
+        "definition": "Likely to have a strong or far-reaching effect; radical and extreme",
+        "sentence": "A ______ reduction of staffing levels",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Yoga",
+        "definition": "A hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practised for health and relaxation",
+        "sentence": "Yoga classes",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Burlap",
+        "definition": "Coarse canvas woven from jute, hemp, or a similar fibre, used especially for sacking",
+        "sentence": "A ______ sack",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Trembling",
+        "definition": "Shaking or quivering, typically as a result of anxiety, excitement, or frailty",
+        "sentence": "She passed the letter with a ______ hand to henry",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Police",
+        "definition": "The civil force of a state, responsible for the prevention and detection of crime and the maintenance of public order",
+        "sentence": "When someone is killed, the ______ have to be informed",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Certain",
+        "definition": "Able to be firmly relied on to happen or be the case",
+        "sentence": "It's ______ that more changes are in the offing",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Charred",
+        "definition": "Burnt and blackened",
+        "sentence": "Charred remains",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Pressure",
+        "definition": "Continuous physical force exerted on or against an object by something in contact with it",
+        "sentence": "The gate was buckling under the ______ of the crowd outside",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Transit",
+        "definition": "The carrying of people or things from one place to another",
+        "sentence": "A painting was damaged in ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cannonade",
+        "definition": "A period of continuous heavy gunfire",
+        "sentence": "The french attack began with a ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Appetite",
+        "definition": "A natural desire to satisfy a bodily need, especially for food",
+        "sentence": "He has a healthy ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Luggage",
+        "definition": "Suitcases or other bags in which to pack personal belongings for travelling",
+        "sentence": "Upon landing, we waited and waited for our ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Vinyl",
+        "definition": "Synthetic resin or plastic consisting of polyvinyl chloride or a related polymer, used for wallpapers and other covering materials and for 7frecords",
+        "sentence": "The ______ is cut to size with a craft knife",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dainty",
+        "definition": "Delicately small and pretty",
+        "sentence": "A ______ lace handkerchief",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Buckle",
+        "definition": "A flat, typically rectangular frame with a hinged pin, used for joining the ends of a belt or strap",
+        "sentence": "Most rucksacks have quick release ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Vividly",
+        "definition": "In a way that produces powerful feelings or strong, clear images in the mind",
+        "sentence": "Margaret remembers ______ the day she received the grim news",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Briny",
+        "definition": "Of salty water or the sea; salty",
+        "sentence": "The ______ tang of the scallops",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Pavement",
+        "definition": "A raised paved or asphalted path for pedestrians at the side of a road.",
+        "sentence": "He fell and hit his head on the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Garnet",
+        "definition": "A precious stone consisting of a deep red vitreous silicate mineral",
+        "sentence": "A ______ ring",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Furrow",
+        "definition": "A long, narrow trench made in the ground by a plough, especially for planting seeds or irrigation",
+        "sentence": "Regular ______ in a ploughed field",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Sprawl",
+        "definition": "Sit, lie, or fall with one's arms and legs spread out in an ungainly way",
+        "sentence": "The door shot open, sending him ______ing across the pavement",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Museum",
+        "definition": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited",
+        "sentence": "The ______ of modern art",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Legend",
+        "definition": "A traditional story sometimes popularly regarded as historical but not authenticated",
+        "sentence": "The ______ of king arthur",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Amplify",
+        "definition": "Increase the volume of (sound), especially using an amplifier",
+        "sentence": "The accompanying chords have been amplified in our arrangement",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Security",
+        "definition": "The state of being free from danger or threat",
+        "sentence": "The system is designed to provide maximum ______ against toxic spills",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Refrain",
+        "definition": "Stop oneself from doing something",
+        "sentence": "She ______ from comment",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Mulish",
+        "definition": "Resembling or likened to a mule in being stubborn",
+        "sentence": "A ______ expression",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Rivalry",
+        "definition": "Competition for the same objective or for superiority in the same field",
+        "sentence": "There always has been intense ______ between the clubs",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Plaid",
+        "definition": "Chequered or tartan twilled cloth, typically made of wool",
+        "sentence": "A ______ shawl",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Tissue",
+        "definition": "Any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products",
+        "sentence": "Inflammation is a reaction of living ______ to infection or injury",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Scoundrel",
+        "definition": "A dishonest or unscrupulous person; a rogue",
+        "sentence": "That ______ sets a bad example for the other young men",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Amino",
+        "definition": "The group —nh₂, present in amino acids, amides, and many amines",
+        "sentence": "Isocyanic acid reacts with ______ groups",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Obvious",
+        "definition": "Easily perceived or understood; clear, self-evident, or apparent",
+        "sentence": "Unemployment has been the most ______ cost of the recession",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Pulse",
+        "definition": "A rhythmical throbbing of the arteries as blood is propelled through them, typically as felt in the wrists or neck",
+        "sentence": "The doctor found a faint ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cottage",
+        "definition": "A small house, typically one in the country",
+        "sentence": "A holiday ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Gnaw",
+        "definition": "Bite at or nibble something persistently",
+        "sentence": "Watching a dog ______ at a big bone",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Comfort",
+        "definition": "A state of physical ease and freedom from pain or constraint",
+        "sentence": "There is room for four people to travel in ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Foolishness",
+        "definition": "Lack of good sense or judgement; stupidity",
+        "sentence": "She was realizing the ______ of her actions",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Juncture",
+        "definition": "A particular point in events or time",
+        "sentence": "It is difficult to say at this ______ whether this upturn can be sustained",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Profound",
+        "definition": "(of a state, quality, or emotion) very great or intense",
+        "sentence": "Profound feelings of disquiet",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Wreath",
+        "definition": "An arrangement of flowers, leaves, or stems fastened in a ring and used for decoration or for laying on a grave",
+        "sentence": "The queen laid a ______ at the cenotaph",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Profile",
+        "definition": "An outline of something, especially a person's face, as seen from one side",
+        "sentence": "The man turned and she caught his ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Untoward",
+        "definition": "Unexpected and inappropriate or inconvenient",
+        "sentence": "Both tried to behave as if nothing ______ had happened",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Memorial",
+        "definition": "A statue or structure established to remind people of a person or event",
+        "sentence": "A ______ to general robert e. lee",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Industrial",
+        "definition": "Relating to or characterized by industry",
+        "sentence": "Industrial waste",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Barrier",
+        "definition": "A fence or other obstacle that prevents movement or access",
+        "sentence": "The mountain ______ between norway and sweden",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Generation",
+        "definition": "All of the people born and living at about the same time, regarded collectively",
+        "sentence": "One of his ______'s finest songwriters",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Coverage",
+        "definition": "The extent to which something deals with something else",
+        "sentence": "The grammar did not offer total ______ of the language",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Disinfectant",
+        "definition": "A chemical liquid that destroys bacteria",
+        "sentence": "All surfaces are cleaned manually or by pressure washer with ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Campaign",
+        "definition": "An organized course of action to achieve a goal",
+        "sentence": "The ______ for a full inquiry into the regime",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Starvation",
+        "definition": "Suffering or death caused by lack of food",
+        "sentence": "Thousands died of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Depot",
+        "definition": "A place for the storage of large quantities of equipment, food, or goods",
+        "sentence": "An arms ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Incident",
+        "definition": "An instance of something happening; an event or occurrence",
+        "sentence": "Several amusing ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Shingle",
+        "definition": "A mass of small rounded pebbles, especially on a seashore",
+        "sentence": "A wonderful beach of fine ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Mason",
+        "definition": "A person skilled in cutting, dressing, and laying stone in buildings",
+        "sentence": "The chief ______ at westminster abbey",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Avoid",
+        "definition": "Keep away from or stop oneself from doing (something)",
+        "sentence": "Avoid excessive exposure to the sun",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Static",
+        "definition": "Lacking in movement, action, or change, especially in an undesirable or uninteresting way",
+        "sentence": "Demand has grown in what was a fairly ______ market",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Modern",
+        "definition": "Relating to the present or recent times as opposed to the remote past",
+        "sentence": "The pace of ______ life",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Concentrate",
+        "definition": "Focus all one's attention on a particular object or activity",
+        "sentence": "She couldn't ______ on the film",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Proud",
+        "definition": "Feeling deep pleasure or satisfaction as a result of one's own achievements, qualities, or possessions or those of someone with whom one is closely associated",
+        "sentence": "A ______ grandma of three boys",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Expiration",
+        "definition": "The ending of the fixed period for which a contract is valid",
+        "sentence": "The ______ of the lease",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Fearsome",
+        "definition": "Frightening, especially in appearance",
+        "sentence": "The cat mewed, displaying a ______ set of teeth",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Residence",
+        "definition": "A person's home, especially a large and impressive one",
+        "sentence": "The youth hostel has been adapted from a private ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Scattering",
+        "definition": "An act of scattering something",
+        "sentence": "The colossal wastage involved in a random ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Turbulent",
+        "definition": "Characterized by conflict, disorder, or confusion; not stable or calm",
+        "sentence": "The country's ______ history",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Continental",
+        "definition": "Forming or belonging to a continent",
+        "sentence": "Continental antarctica",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Deportment",
+        "definition": "The way a person stands and walks, particularly as an element of etiquette",
+        "sentence": "Poise is directly concerned with good ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Agricultural",
+        "definition": "Relating to agriculture",
+        "sentence": "Agricultural land",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Momentous",
+        "definition": "Of great importance or significance, especially in having a bearing on future events",
+        "sentence": "A period of ______ changes in east–west relations",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Disturbance",
+        "definition": "The interruption of a settled and peaceful condition",
+        "sentence": "A helicopter landing can cause ______ to residents",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Wily",
+        "definition": "Skilled at gaining an advantage, especially deceitfully",
+        "sentence": "His ______ opponents",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Rookie",
+        "definition": "A new recruit, especially in the army or police",
+        "sentence": "A ______ cop",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Hazmat",
+        "definition": "Dangerous substances; hazardous material",
+        "sentence": "Hazmat shipments",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Perfume",
+        "definition": "A fragrant liquid typically made from essential oils extracted from flowers and spices, used to give a pleasant smell to one's body",
+        "sentence": "I caught a whiff of her fresh lemony ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Series",
+        "definition": "A number of events, objects, or people of a similar or related kind coming one after another",
+        "sentence": "The explosion was the latest in a ______ of accidents",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Audience",
+        "definition": "The assembled spectators or listeners at a public event such as a play, film, concert, or meeting",
+        "sentence": "He asked for questions from members of the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Insubstantial",
+        "definition": "Lacking strength and solidity",
+        "sentence": "The huts are relatively few and ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Assistance",
+        "definition": "The action of helping someone by sharing work",
+        "sentence": "The work was completed with the ______ of carpenters",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Sanitized",
+        "definition": "Made clean and hygienic; disinfected",
+        "sentence": "Sanitized equipment and utensils",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Diminished",
+        "definition": "Made smaller or less",
+        "sentence": "A ______ role for local government",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Operator",
+        "definition": "A person who operates equipment or a machine",
+        "sentence": "A radio ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Perpetual",
+        "definition": "Never ending or changing",
+        "sentence": "Deep caves in ______ darkness",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Blustery",
+        "definition": "(of weather) characterized by strong winds",
+        "sentence": "A gusty, ______ day",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Arrange",
+        "definition": "Put (things) in a neat, attractive, or required order",
+        "sentence": "She had just finished arranging the flowers",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Extremely",
+        "definition": "To a very great degree; very",
+        "sentence": "This is an ______ difficult thing to do",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Plastic",
+        "definition": "A synthetic material made from a wide range of organic polymers such as polyethylene, pvc, nylon, etc., that can be moulded into shape while soft, and then set into a rigid or slightly elastic form",
+        "sentence": "Mains pipes should be made of ______ or copper",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Multiplication",
+        "definition": "The process or skill of multiplying",
+        "sentence": "We need to use both ______ and division to find the answers",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Middle",
+        "definition": "The point or position at an equal distance from the sides, edges, or ends of something",
+        "sentence": "She stood alone in the ______ of the street",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Reasonable",
+        "definition": "Having sound judgement; fair and sensible",
+        "sentence": "No ______ person could have objected",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Closet",
+        "definition": "A tall cupboard or wardrobe with a door, used for storage",
+        "sentence": "He has a ______ full of designer suits",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Investigation",
+        "definition": "The action of investigating something or someone; formal or systematic examination or research",
+        "sentence": "He is under ______ for receiving illicit funds",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Accident",
+        "definition": "An unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury",
+        "sentence": "He had an ______ at the factory",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Discussion",
+        "definition": "The action or process of talking about something in order to reach a decision or to exchange ideas",
+        "sentence": "The committee acts as a forum for ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Confused",
+        "definition": "(of a person) unable to think clearly; bewildered",
+        "sentence": "She was utterly ______ about what had happened",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Microwave",
+        "definition": "An electromagnetic wave with a wavelength in the range 0.001–0.3 m, shorter than that of a normal radio wave but longer than those of infrared radiation. microwaves are used in radar, in communications, and for heating in microwave ovens and in various industrial processes",
+        "sentence": "Microwave radiation",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Settle",
+        "definition": "Resolve or reach an agreement about (an argument or problem)",
+        "sentence": "The unions have ______d their year-long dispute with hollywood producers",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Loyal",
+        "definition": "Giving or showing firm and constant support or allegiance to a person or institution",
+        "sentence": "He remained ______ to the government",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Remarkable",
+        "definition": "Worthy of attention; striking",
+        "sentence": "A ______ coincidence",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Scrambling",
+        "definition": "The action of scrambling up or over rough or steep ground, especially as a leisure activity",
+        "sentence": "The final push for the summit involved some exhilarating ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Inspector",
+        "definition": "An official employed to ensure that official regulations are obeyed, especially in public services",
+        "sentence": "A prison ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Distressed",
+        "definition": "Suffering from extreme anxiety, sorrow, or pain",
+        "sentence": "I was ______ at the news of his death",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Smudge",
+        "definition": "Cause (something) to become messily smeared by rubbing it",
+        "sentence": "She dabbed her eyes, careful not to ______ her make-up",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Throttle",
+        "definition": "A device controlling the flow of fuel or power to an engine",
+        "sentence": "The engines were at full ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Perfection",
+        "definition": "The state or quality of being perfect",
+        "sentence": "The satiny ______ of her skin",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Capable",
+        "definition": "Having the ability, fitness, or quality necessary to do or achieve a specified thing",
+        "sentence": "I'm quite ______ of taking care of myself",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Chisel",
+        "definition": "A long-bladed hand tool with a bevelled cutting edge and a handle which is struck with a hammer or mallet, used to cut or shape wood, stone, or metal",
+        "sentence": "Cut away the tiles with a broad-bladed steel ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Chimney",
+        "definition": "A vertical channel or pipe which conducts smoke and combustion gases up from a fire or furnace and typically through the roof of a building",
+        "sentence": "A coal fire thrust yellow flames up the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Domain",
+        "definition": "An area of territory owned or controlled by a particular ruler or government",
+        "sentence": "The french ______ of the plantagenets",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Shuffle",
+        "definition": "Walk by dragging one's feet along or without lifting them fully from the ground",
+        "sentence": "I stepped into my skis and ______d to the edge of the steep slope",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Parcel",
+        "definition": "An object or collection of objects wrapped in paper in order to be carried or sent by post",
+        "sentence": "The lorry was carrying a large number of royal mail ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Squawk",
+        "definition": "(of a bird) make a loud, harsh noise",
+        "sentence": "The geese flew upriver, ______ing",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Trowel",
+        "definition": "A small handheld tool with a flat, pointed blade, used to apply and spread mortar or plaster",
+        "sentence": "A pointing ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Nervous",
+        "definition": "Easily agitated or alarmed",
+        "sentence": "A sensitive, ______ person",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Spirit",
+        "definition": "The non-physical part of a person which is the seat of emotions and character; the soul",
+        "sentence": "We seek a harmony between body and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Evidence",
+        "definition": "The available body of facts or information indicating whether a belief or proposition is true or valid",
+        "sentence": "The study finds little ______ of overt discrimination",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Solar",
+        "definition": "Relating to or determined by the sun",
+        "sentence": "Solar radiation",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Explore",
+        "definition": "Travel through (an unfamiliar area) in order to learn about it",
+        "sentence": "He ______d the fontainebleau forest",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Distance",
+        "definition": "The length of the space between two points",
+        "sentence": "I cycled the short ______ home",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Fault",
+        "definition": "An unattractive or unsatisfactory feature, especially in a piece of work or in a person's character",
+        "sentence": "My worst ______ is impatience",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Prudence",
+        "definition": "The quality of being prudent; cautiousness",
+        "sentence": "We need to exercise ______ in such important matters",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Assembly",
+        "definition": "A group of people gathered together in one place for a common purpose",
+        "sentence": "An ______ of dockers and labourers",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Tarry",
+        "definition": "Like or covered with tar",
+        "sentence": "A length of ______ rope",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Entity",
+        "definition": "A thing with distinct and independent existence",
+        "sentence": "Church and empire were fused in a single ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Commotion",
+        "definition": "A state of confused and noisy disturbance",
+        "sentence": "She was distracted by a ______ across the street",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Vacancy",
+        "definition": "An unoccupied position or job",
+        "sentence": "A ______ for a shorthand typist",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Mutate",
+        "definition": "Change in form or nature",
+        "sentence": "Rhythm and blues ______d into rock and roll",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Commonplace",
+        "definition": "Not unusual; ordinary",
+        "sentence": "Unemployment was ______ in his trade",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Hunky-dory",
+        "definition": "Fine; going well",
+        "sentence": "Everything is ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Dispute",
+        "definition": "A disagreement or argument",
+        "sentence": "A territorial ______ between the two countries",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Episode",
+        "definition": "An event or a group of events occurring as part of a sequence; an incident or period considered in isolation",
+        "sentence": "The whole ______ has been a major embarrassment",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Confection",
+        "definition": "An elaborate sweet dish or delicacy",
+        "sentence": "A fruit ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Petite",
+        "definition": "Attractively small and dainty (used of a woman)",
+        "sentence": "She was ______ and vivacious",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Station",
+        "definition": "A place on a railway line where trains regularly stop so that passengers can get on or off",
+        "sentence": "We walked back to the ______ and caught the train back to brussels",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Hexagonal",
+        "definition": "Relating to or constituting a hexagon; having six straight sides and six angles",
+        "sentence": "Small, ______ pockets of honeycomb",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Seethe",
+        "definition": "(of a liquid) boil or be turbulent as if boiling",
+        "sentence": "The grey ocean ______d",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Antiquarian",
+        "definition": "Relating to or dealing in antiques or rare books",
+        "sentence": "Antiquarian booksellers",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Bachelorette",
+        "definition": "A young unmarried woman",
+        "sentence": "A photo of each ______ accompanies her profile",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Frontier",
+        "definition": "A line or border separating two countries",
+        "sentence": "International crime knows no ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Unctuous",
+        "definition": "Excessively flattering or ingratiating; oily",
+        "sentence": "He seemed anxious to please but not in an ______ way",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Moorage",
+        "definition": "The action of mooring a boat or ship to the shore or to an anchor",
+        "sentence": "Regulations prohibiting the long-term ______ of vessels",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Quaver",
+        "definition": "(of a person's voice) shake or tremble in speaking, typically through nervousness or emotion",
+        "sentence": "His voice ______ with rage",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Rabbinic",
+        "definition": "Relating to rabbis or to jewish law or teachings",
+        "sentence": "Rabbinical studies",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Callow",
+        "definition": "(of a young person) inexperienced and immature",
+        "sentence": "Earnest and ______ undergraduates",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Abhorrence",
+        "definition": "A feeling of revulsion; disgusted loathing",
+        "sentence": "The thought of marrying him filled her with ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Personnel",
+        "definition": "People employed in an organization or engaged in an organized undertaking such as military service",
+        "sentence": "Many of the ______ involved require training",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Vexatious",
+        "definition": "Causing or tending to cause annoyance, frustration, or worry",
+        "sentence": "The ______ questions posed by software copyrights",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Faux",
+        "definition": "Made in imitation; artificial",
+        "sentence": "A rope of ______ pearls",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Sophisticated",
+        "definition": "Having, revealing, or involving a great deal of worldly experience and knowledge of fashion and culture",
+        "sentence": "A chic, ______ woman",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Nebulous",
+        "definition": "In the form of a cloud or haze; hazy",
+        "sentence": "A giant ______ glow",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Subcutaneous",
+        "definition": "Situated or applied under the skin",
+        "sentence": "Subcutaneous fat",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Alacrity",
+        "definition": "Brisk and cheerful readiness",
+        "sentence": "She accepted the invitation with ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Choreographer",
+        "definition": "A person who composes the sequence of steps and moves for a performance of dance",
+        "sentence": "A professional ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Mimetic",
+        "definition": "Relating to, constituting, or habitually practising mimesis",
+        "sentence": "Mimetic patterns in butterflies",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Squander",
+        "definition": "Waste (something, especially money or time) in a reckless and foolish manner",
+        "sentence": "£100m of taxpayers' money has been ______ on administering the tax",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Prenuptial",
+        "definition": "Existing or occurring before marriage",
+        "sentence": "Prenuptial pregnancy",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Succulent",
+        "definition": "(of food) tender, juicy, and tasty",
+        "sentence": "A ______ steak",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Bedraggled",
+        "definition": "Dishevelled",
+        "sentence": "We got there, tired and ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Rectitude",
+        "definition": "Morally correct behaviour or thinking; righteousness",
+        "sentence": "Mattie is a model of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Inundate",
+        "definition": "Overwhelm (someone) with things or people to be dealt with",
+        "sentence": "We've been ______d with complaints from listeners",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Wunderkind",
+        "definition": "A person who achieves great success when relatively young",
+        "sentence": "The economics ______ who was a tenured professor at 29",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Filial",
+        "definition": "Relating to or due from a son or daughter",
+        "sentence": "A display of ______ affection",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Wearisome",
+        "definition": "Causing one to feel tired or bored",
+        "sentence": "They have schedules and inventories that tell them in ______ detail what they should look for",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Visage",
+        "definition": "A person's face, with reference to the form or proportions of the features",
+        "sentence": "An elegant, angular ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Testimony",
+        "definition": "A formal written or spoken statement, especially one given in a court of law",
+        "sentence": "The ______ of an eyewitness",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Beaucoup",
+        "definition": "Many or much",
+        "sentence": "Beaucoup profits are at stake",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Superlative",
+        "definition": "Of the highest quality or degree",
+        "sentence": "A ______ piece of skill",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Oxygenate",
+        "definition": "Supply, treat, charge, or enrich with oxygen",
+        "sentence": "The lungs ______ the blood before it returns to the heart",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Annihilate",
+        "definition": "Destroy utterly; obliterate",
+        "sentence": "A simple bomb of this type could ______ them all",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Surrogate",
+        "definition": "A substitute, especially a person deputizing for another in a specific role or office",
+        "sentence": "She served as a ______ for the president on a trip to south america",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Uncouth",
+        "definition": "Lacking good manners, refinement, or grace",
+        "sentence": "He is unwashed, ______, and drunk most of the time",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Onerous",
+        "definition": "(of a task or responsibility) involving a great deal of effort, trouble, or difficulty",
+        "sentence": "He found his duties increasingly ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Bulbous",
+        "definition": "Fat, round, or bulging",
+        "sentence": "A ______ nose",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Heredity",
+        "definition": "The passing on of physical or mental characteristics genetically from one generation to another",
+        "sentence": "The relative influence of ______ and environment",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Philharmonic",
+        "definition": "Devoted to music (chiefly used in the names of orchestras)",
+        "sentence": "The boston ______ orchestra",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Pharmacy",
+        "definition": "A shop or hospital dispensary where medicinal drugs are prepared or sold",
+        "sentence": "The local ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Axiomatic",
+        "definition": "Self-evident or unquestionable",
+        "sentence": "It is ______ that dividends have to be financed",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Indefatigable",
+        "definition": "(of a person or their efforts) persisting tirelessly",
+        "sentence": "An ______ defender of human rights",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Ulterior",
+        "definition": "Existing beyond what is obvious or admitted; intentionally hidden",
+        "sentence": "Could there be an ______ motive behind his request?",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Oligarchy",
+        "definition": "A small group of people having control of a country or organization",
+        "sentence": "The ruling ______ of military men around the president",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dignify",
+        "definition": "Make (something) seem worthy and impressive",
+        "sentence": "The americans had dignified their departure with a ceremony",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Allegiance",
+        "definition": "Loyalty or commitment to a superior or to a group or cause",
+        "sentence": "Those wishing to receive citizenship must swear ______ to the republic",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ecstatic",
+        "definition": "Feeling or expressing overwhelming happiness or joyful excitement",
+        "sentence": "Ecstatic fans filled the stadium",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Cinnamon",
+        "definition": "An aromatic spice made from the peeled, dried, and rolled bark of a se asian tree",
+        "sentence": "A teaspoon of ground ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Pharaoh",
+        "definition": "A ruler in ancient egypt",
+        "sentence": "The time of the ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Contusion",
+        "definition": "A region of injured tissue or skin in which blood capillaries have been ruptured; a bruise",
+        "sentence": "A dark ______ on his cheek was beginning to swell",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Elocution",
+        "definition": "The skill of clear and expressive speech, especially of distinct pronunciation and articulation",
+        "sentence": "Lessons in singing and ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dowager",
+        "definition": "A widow with a title or property derived from her late husband",
+        "sentence": "The ______ duchess",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Comparison",
+        "definition": "A consideration or estimate of the similarities or dissimilarities between two things or people",
+        "sentence": "They drew a ______ between gandhi's teaching and that of other teachers",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Diaphanous",
+        "definition": "(especially of fabric) light, delicate, and translucent",
+        "sentence": "A ______ dress of pale gold",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Buffet",
+        "definition": "A meal consisting of several dishes from which guests serve themselves",
+        "sentence": "A cold ______ lunch",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Endure",
+        "definition": "Suffer (something painful or difficult) patiently",
+        "sentence": "It seemed impossible that anyone could ______ such pain",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Abrogate",
+        "definition": "Repeal or do away with (a law, right, or formal agreement)",
+        "sentence": "A proposal to ______ temporarily the right to strike",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Effusive",
+        "definition": "Showing or expressing gratitude, pleasure, or approval in an unrestrained or heartfelt manner",
+        "sentence": "An ______ welcome",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Vituperative",
+        "definition": "Bitter and abusive",
+        "sentence": "A ______ outburst",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Churlish",
+        "definition": "Rude in a mean-spirited and surly way",
+        "sentence": "It seems ______ to complain",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Laconic",
+        "definition": "(of a person, speech, or style of writing) using very few words",
+        "sentence": "His ______ reply suggested a lack of interest in the topic",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Excision",
+        "definition": "The action of excising something",
+        "sentence": "The ______ of the carcinoma",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Bric-a-brac",
+        "definition": "Miscellaneous objects and ornaments of little value",
+        "sentence": "Then came donations of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Longitude",
+        "definition": "The angular distance of a place east or west of the greenwich meridian, or west of the standard meridian of a celestial object, usually expressed in degrees and minutes",
+        "sentence": "At a ______ of 2° w",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Maverick",
+        "definition": "An unorthodox or independent-minded person",
+        "sentence": "He's the ______ of the senate",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Retrograde",
+        "definition": "Directed or moving backwards",
+        "sentence": "A ______ flow",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Insignia",
+        "definition": "A distinguishing badge or emblem of military rank, office, or membership of an organization",
+        "sentence": "A khaki uniform with colonel's ______ on the collar",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Unabated",
+        "definition": "Without any reduction in intensity or strength",
+        "sentence": "The storm was raging ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Specimen",
+        "definition": "An individual animal, plant, piece of a mineral, etc. used as an example of its species or type for scientific study or display",
+        "sentence": "Specimens of copper ore",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dulcet",
+        "definition": "(especially of sound) sweet and soothing (often used ironically)",
+        "sentence": "Record the ______ tones of your family and friends",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Salubrious",
+        "definition": "Health-giving; healthy",
+        "sentence": "Odours of far less ______ origin",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Hiatus",
+        "definition": "A pause or break in continuity in a sequence or activity",
+        "sentence": "There was a brief ______ in the war with france",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dramaturgy",
+        "definition": "The theory and practice of dramatic composition",
+        "sentence": "Studies of shakespeare's ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Biscuit",
+        "definition": "A small baked unleavened cake, typically crisp, flat, and sweet",
+        "sentence": "A chocolate ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Splenetic",
+        "definition": "Bad-tempered; spiteful",
+        "sentence": "A ______ rant",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Flourish",
+        "definition": "(of a living organism) grow or develop in a healthy or vigorous way, especially as the result of a particularly congenial environment",
+        "sentence": "Wild plants ______ on the banks of the lake",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Legato",
+        "definition": "In a smooth flowing manner, without breaks between notes.",
+        "sentence": "The notes were played ______ by the bassoons",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Banal",
+        "definition": "So lacking in originality as to be obvious and boring",
+        "sentence": "Songs with ______, repeated words",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Spectacles",
+        "definition": "A pair of glasses",
+        "sentence": "Gold-rimmed ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Innovator",
+        "definition": "A person who introduces new methods, ideas, or products",
+        "sentence": "He was one of the great ______ in jazz",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Hallowed",
+        "definition": "Made holy; consecrated",
+        "sentence": "Hallowed ground",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Apogee",
+        "definition": "The highest point in the development of something; a climax or culmination",
+        "sentence": "A film which was the ______ of german expressionist cinema",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cupola",
+        "definition": "A rounded dome forming or adorning a roof or ceiling",
+        "sentence": "A square tower crowned by a ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Decrepitude",
+        "definition": "The state of being decrepit",
+        "sentence": "He had passed directly from middle age into ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Redux",
+        "definition": "Brought back; revived",
+        "sentence": "Damian has the veneer of the angry young man ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Primitive",
+        "definition": "Relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something",
+        "sentence": "Primitive mammals",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Comportment",
+        "definition": "Behaviour; bearing",
+        "sentence": "He displayed precisely the ______ expected of the rightful king",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Taciturn",
+        "definition": "(of a person) reserved or uncommunicative in speech; saying little",
+        "sentence": "After such gatherings she would be ______ and morose",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Sophomoric",
+        "definition": "Relating to or characteristic of a sophomore",
+        "sentence": "My ______ years",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Laureate",
+        "definition": "A person who is honoured with an award for outstanding creative or intellectual achievement",
+        "sentence": "A nobel ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Exoneration",
+        "definition": "The action of officially absolving someone from blame; vindication",
+        "sentence": "The defendants' eventual ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Omnibus",
+        "definition": "A volume containing several books previously published separately",
+        "sentence": "An ______ of her first trilogy",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Beatific",
+        "definition": "Feeling or expressing blissful happiness",
+        "sentence": "A ______ smile",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Repository",
+        "definition": "A place where or receptacle in which things are or may be stored",
+        "sentence": "A deep ______ for nuclear waste",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Dissipate",
+        "definition": "(with reference to a feeling or emotion) disappear or cause to disappear",
+        "sentence": "The concern she'd felt for him had wholly ______d",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Slovenly",
+        "definition": "(especially of a person or their appearance) untidy and dirty",
+        "sentence": "A fat, ______ ex-rock star",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Paisley",
+        "definition": "A distinctive intricate pattern of curved feather-shaped figures based on an indian pine-cone design",
+        "sentence": "A ______ silk tie",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Turpitude",
+        "definition": "Depraved or wicked behaviour or character",
+        "sentence": "Acts of moral ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Edification",
+        "definition": "The moral or intellectual instruction or improvement of someone",
+        "sentence": "A video was filmed for the ______ of clients",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Calibrate",
+        "definition": "Mark (a gauge or instrument) with a standard scale of readings",
+        "sentence": "The depth gauge is ______d in centimetres",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Platitude",
+        "definition": "A remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful",
+        "sentence": "She began uttering liberal ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Appellation",
+        "definition": "A name or title",
+        "sentence": "The city fully justifies its ______ ‘the pearl of the orient’",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Commerce",
+        "definition": "The activity of buying and selling, especially on a large scale",
+        "sentence": "The changes in taxation are of benefit to ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Combination",
+        "definition": "A joining or merging of different parts or qualities in which the component elements are individually distinct",
+        "sentence": "A magnificent ______ of drama, dance, and music",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Importunate",
+        "definition": "Persistent, especially to the point of annoyance",
+        "sentence": "Importunate creditors",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Valorous",
+        "definition": "Showing great courage in the face of danger, especially in battle",
+        "sentence": "Valorous deeds on the field of honour",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Torrent",
+        "definition": "A strong and fast-moving stream of water or other liquid",
+        "sentence": "Rain poured down in ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Recuperation",
+        "definition": "Recovery from illness or exertion",
+        "sentence": "The human body has amazing powers of ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Isotopic",
+        "definition": "Relating to an isotope or isotopes of an element",
+        "sentence": "All ______ dating methods are based on the radioactive decay of certain nuclides",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Honorific",
+        "definition": "Given as a mark of respect but having few or no duties",
+        "sentence": "He was elevated to the ______ status of ‘dom’",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Citronella",
+        "definition": "A fragrant natural oil used as an insect repellent and in perfume and soap manufacture",
+        "sentence": "Citronella candles",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Palliative",
+        "definition": "(of a medicine or medical care) relieving pain without dealing with the cause of the condition",
+        "sentence": "Orthodox medicines tend to be ______ rather than curative",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Quizzical",
+        "definition": "(of a person's expression or behaviour) indicating mild or amused puzzlement",
+        "sentence": "She gave me a ______ look",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Accomplice",
+        "definition": "A person who helps another commit a crime",
+        "sentence": "An ______ in the murder",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Contrariwise",
+        "definition": "In the opposite way or order",
+        "sentence": "It worked ______—first you dialled the number then you put the money in",
+        "partOfSpeech": "Adverb"
+    },
+    {
+        "word": "Who",
+        "definition": "What or which person or people",
+        "sentence": "Who is that woman?",
+        "partOfSpeech": "Pronoun"
+    },
+    {
+        "word": "The",
+        "definition": "Denoting one or more people or things already mentioned or assumed to be common knowledge.",
+        "sentence": "What's ______ matter?",
+        "partOfSpeech": "Determiner"
+    },
+    {
+        "word": "National",
+        "definition": "Relating to or characteristic of a nation; common to a whole nation",
+        "sentence": "This policy may have been in the ______ interest",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Spelling",
+        "definition": "The process or activity of writing or naming the letters of a word",
+        "sentence": "The books and ______ in my class were too simple",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "The",
+        "definition": "Denoting one or more people or things already mentioned or assumed to be common knowledge.",
+        "sentence": "What's ______ matter?",
+        "partOfSpeech": "Determiner"
+    },
+    {
+        "word": "And",
+        "definition": "Used to connect words of the same part of speech, clauses, or sentences, that are to be taken jointly",
+        "sentence": "Bread ______ butter",
+        "partOfSpeech": "Conjunction"
+    },
+    {
+        "word": "Educational",
+        "definition": "Relating to the provision of education",
+        "sentence": "Educational institutions",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Spelling",
+        "definition": "The process or activity of writing or naming the letters of a word",
+        "sentence": "The books and ______ in my class were too simple",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Whimsical",
+        "definition": "Playfully quaint or fanciful, especially in an appealing and amusing way",
+        "sentence": "A ______ sense of humour",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Stamina",
+        "definition": "The ability to sustain prolonged physical or mental effort",
+        "sentence": "Their secret is ______ rather than speed",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Reprieve",
+        "definition": "Cancel or postpone the punishment of (someone, especially someone condemned to death)",
+        "sentence": "Under the new regime, prisoners under sentence of death were ______d",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Incinerate",
+        "definition": "Destroy (something, especially waste material) by burning",
+        "sentence": "Waste packaging is to be ______d rather than buried in landfills",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Flagon",
+        "definition": "A large container in which drink is served, typically with a handle and spout",
+        "sentence": "A silver ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Incoherent",
+        "definition": "(of spoken or written language) expressed in an incomprehensible or confusing way; unclear",
+        "sentence": "He screamed some ______ threat",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Consequent",
+        "definition": "Following as a result or effect",
+        "sentence": "The social problems of pupils and their ______ educational difficulties",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Tercentenary",
+        "definition": "The three-hundredth anniversary of a significant event",
+        "sentence": "Events arranged to mark the library's ______",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Elucidate",
+        "definition": "Make (something) clear; explain",
+        "sentence": "Work such as theirs will help to ______ this matter",
+        "partOfSpeech": "Verb"
+    },
+    {
+        "word": "Stalwart",
+        "definition": "Loyal, reliable, and hard-working",
+        "sentence": "He remained a ______ supporter of the cause",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Bumptious",
+        "definition": "Irritatingly self-assertive",
+        "sentence": "An impossibly ______ and opinionated ass",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Farcical",
+        "definition": "Relating to or resembling farce, especially because of absurd or ridiculous aspects",
+        "sentence": "He considered the whole idea ______",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Ghastly",
+        "definition": "Causing great horror or fear",
+        "sentence": "One of the most ______ crimes ever committed",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Fealty",
+        "definition": "A feudal tenant's or vassal's sworn loyalty to a lord",
+        "sentence": "They owed ______ to the earl rather than the king",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Perilous",
+        "definition": "Full of danger or risk",
+        "sentence": "A ______ journey south",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Gullibility",
+        "definition": "A tendency to be easily persuaded that something is real or true; credulity",
+        "sentence": "You can never underestimate the ______ of people",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Cantankerous",
+        "definition": "Bad-tempered, argumentative, and uncooperative",
+        "sentence": "He can be a ______ old fossil at times",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Vitriolic",
+        "definition": "Filled with bitter criticism or malice",
+        "sentence": "Vitriolic attacks on the politicians",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Debris",
+        "definition": "Scattered pieces of rubbish or remains",
+        "sentence": "Workmen were clearing the roads of the ______ from shattered buildings",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Versatile",
+        "definition": "Able to adapt or be adapted to many different functions or activities",
+        "sentence": "A ______ sewing machine",
+        "partOfSpeech": "Adjective"
+    },
+    {
+        "word": "Subtlety",
+        "definition": "The quality or state of being subtle",
+        "sentence": "The textural ______ of degas",
+        "partOfSpeech": "Noun"
+    },
+    {
+        "word": "Ventriloquy",
+        "definition": "The art or practice of making one's voice appear to come from somewhere else, typically a dummy of a person or animal",
+        "sentence": "He played multiple characters using his skills in quick changes and ______",
+        "partOfSpeech": "Noun"
+    }
+]
