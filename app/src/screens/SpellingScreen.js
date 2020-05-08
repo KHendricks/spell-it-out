@@ -27,16 +27,35 @@ const SpellingScreen = (props) => {
             <PartOfWord useSentence={true} />
             <PartOfWord usePartOfSpeech={true} />
 
-            {/* Button for a New Word */}
-            <TouchableOpacity
-                style={styles.newWordButtonStyle}
-                onPress={() => {
-                    props.setInputText("");
-                    props.newWord();
+            <View
+                style={{
+                    flexDirection: "row",
+                    justifyContent: "space-around",
                 }}
             >
-                <Text style={styles.newWordButtonTextStyle}>NEW WORD</Text>
-            </TouchableOpacity>
+                {/* Button for a New Word */}
+                <TouchableOpacity
+                    style={styles.newWordButtonStyle}
+                    onPress={() => {
+                        props.setInputText("");
+                        props.newWord();
+                    }}
+                >
+                    <Text style={styles.newWordButtonTextStyle}>NEW WORD</Text>
+                </TouchableOpacity>
+
+                {/* Button to reveal word */}
+                <TouchableOpacity
+                    style={styles.newWordButtonStyle}
+                    onPress={() => {
+                        props.setInputText(props.word);
+                    }}
+                >
+                    <Text style={styles.newWordButtonTextStyle}>
+                        REVEAL WORD
+                    </Text>
+                </TouchableOpacity>
+            </View>
         </ScrollView>
     );
 };

@@ -16,14 +16,9 @@ const SelectPackScreen = (props) => {
         <View style={styles.viewStyle}>
             <Text style={styles.textStyle}>{props.wordPack}</Text>
 
-            <View
-                style={styles.scrollViewStyle}
-                contentContainerStyle={{ flexGrow: 1 }}
-            >
-                <SelectPack title="Easy Words" command="easy" />
-                <SelectPack title="Medium Words" command="medium" />
-                <SelectPack title="Hard Words" command="hard" />
-            </View>
+            <SelectPack title="Easy Words" command="easy" />
+            <SelectPack title="Medium Words" command="medium" />
+            <SelectPack title="Hard Words" command="hard" />
 
             {/* Go back to the spelling screen */}
             <TouchableOpacity
